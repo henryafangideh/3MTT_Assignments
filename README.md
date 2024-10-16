@@ -1,1 +1,0 @@
-This is the Week 4 assignment for the 3MTT AI/ML program course.
